@@ -4,6 +4,7 @@ It makes beautiful wave-like animation
 
 
 
+![video of animation](https://user-images.githubusercontent.com/69315856/114266736-7a31b200-9a15-11eb-9823-741650bc25bd.mp4)
 
-https://user-images.githubusercontent.com/69315856/114266708-4fdff480-9a15-11eb-97fe-bfcdf14fe651.mp4
+
 
