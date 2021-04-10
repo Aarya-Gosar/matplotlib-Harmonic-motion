@@ -1,10 +1,11 @@
 # matplotlib-Harmonic-motion
 It makes beautiful wave-like animation
-![plt harmonic motion](https://user-images.githubusercontent.com/69315856/114266706-4b1b4080-9a15-11eb-8951-a9221bed283b.JPG)
+
+![wavy](https://user-images.githubusercontent.com/69315856/114270700-7741bc00-9a2b-11eb-9816-077f8a7e4e91.JPG)
+
+https://user-images.githubusercontent.com/69315856/114270705-7c067000-9a2b-11eb-8d39-1c34baa3fba5.mp4
 
 
-
-![video of animation](https://user-images.githubusercontent.com/69315856/114266736-7a31b200-9a15-11eb-9823-741650bc25bd.mp4)
 
 
 
