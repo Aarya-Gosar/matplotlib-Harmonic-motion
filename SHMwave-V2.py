@@ -21,8 +21,8 @@ def update_z(dt):
 k = 3.5
 def update(i):
 	ax1.clear()
-	ax1.scatter(k,k,k)
-	ax1.scatter(-k,-k,-k)
+	ax1.scatter(k,k,k,s = 0.0001)
+	ax1.scatter(-k,-k,-k , s = 0.0001)
 
 	update_z(time.time())
 	ax1.scatter(xs,ys,zs , c = off)
